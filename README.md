@@ -1,3 +1,3 @@
 # clo835-app
-# for demo video 1
-#video 2
+# this is for demo
+# clo835-app-assingment 1
